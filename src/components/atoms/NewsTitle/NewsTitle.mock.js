@@ -1,7 +1,5 @@
 const NewsTitleMock = {
-  /// TODO: Implement data structure
-  size: "medium",
-  type: "regular"
+ text: 'Argume'
 }
 
 export default NewsTitleMock

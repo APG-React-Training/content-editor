@@ -13,4 +13,10 @@ describe("NewsTitle", () => {
         expect(defaultCreated).not.toBeNull()
     })
 
+    it("Can contains the text 'Argument'", () => {
+      render(<NewsTitle testID={ testID } { ...NewsTitleMock } />)
+      let defaultCreated = screen.getByTestId(testID)
+      expect(defaultCreated).toHaveTextContent('Argume')
+    })
+
 })

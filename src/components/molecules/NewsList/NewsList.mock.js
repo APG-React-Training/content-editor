@@ -1,7 +1,8 @@
 const NewsListMock = {
-  /// TODO: Implement data structure
-  size: "medium",
-  type: "regular"
+  data: [
+    { id: 1, title: 'test 1'},
+    { id: 2, title: 'test 2'}
+  ]
 }
 
 export default NewsListMock

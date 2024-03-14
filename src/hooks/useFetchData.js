@@ -1,6 +1,6 @@
 import { useState, useEffect} from 'react'
 
-const useFetchData = (url) => {
+const useFetchData = (url, refresh) => {
 
   const [data, setData] = useState([])
   const [isLoaded, setLoaded] = useState(false)
@@ -13,7 +13,7 @@ const useFetchData = (url) => {
         setLoaded(true)
       })
 
-  }, [url])
+  }, [url, refresh])
 
 
   return [data, isLoaded]

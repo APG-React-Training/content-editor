@@ -1,18 +1,93 @@
 {
-
   "news": [
-    { "id": 1, "title": "APG mede-initiatiefnemer ELSA Lab Anti-greenwashing"},
-    { "id": 2, "title": "Thijs Knaap bij BNR over het mysterie van de dalende inflatie"},
-    { "id": 3, "title": "Interview met bestuurder Ronald Wuijster over duurzame mobiliteit bij APG"},
-    { "id": 4, "title": "APG belegt voor ABP in aanbieder energieoplossingen"}
+    {
+      "id": 1,
+      "title": "APG mede-initiatiefnemer ELSA Lab Anti-greenwashing"
+    },
+    {
+      "id": 2,
+      "title": "Thijs Knaap bij BNR over het mysterie van de dalende inflatie"
+    },
+    {
+      "id": 3,
+      "title": "Interview met bestuurder Ronald Wuijster over duurzame mobiliteit bij APG"
+    },
+    {
+      "id": 4,
+      "title": "APG belegt voor ABP in aanbieder energieoplossingen"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    },
+    {
+      "id": 20,
+      "title": "Dit is een nieuwsbericht"
+    }
   ],
-
   "articles": [
-    { "id": 1, "title": "Beleggingen uitgelegd", "tags": ["beleggingen", "inkomen"], "content": "Iemand van APG doet iets moois", "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"},
-    { "id": 2, "title": "Andere dingen", "tags": ["pensioenen", "oude dag"], "content": "Iemand van APG doet iets moois", "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"},
-    { "id": 3, "title": "Nummer 3 dan maar!", "tags": ["beleggingen", "inkomen"], "content": "Iemand van APG doet iets moois" },
-    { "id": 4, "title": "Artikel 4", "tags": ["beleggingen", "inkomen"], "content": "Iemand van APG doet iets moois", "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"}
-
+    {
+      "id": 1,
+      "title": "Beleggingen uitgelegd",
+      "tags": [
+        "beleggingen",
+        "inkomen"
+      ],
+      "content": "Iemand van APG doet iets moois",
+      "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Andere dingen",
+      "tags": [
+        "pensioenen",
+        "oude dag"
+      ],
+      "content": "Iemand van APG doet iets moois",
+      "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nummer 3 dan maar!",
+      "tags": [
+        "beleggingen",
+        "inkomen"
+      ],
+      "content": "Iemand van APG doet iets moois"
+    },
+    {
+      "id": 4,
+      "title": "Artikel 4",
+      "tags": [
+        "beleggingen",
+        "inkomen"
+      ],
+      "content": "Iemand van APG doet iets moois",
+      "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"
+    }
   ]
-
 }
