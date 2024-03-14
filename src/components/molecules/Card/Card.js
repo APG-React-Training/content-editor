@@ -3,7 +3,7 @@ import './_Card.style.scss'
 import { Row, Col} from 'react-bootstrap'
 import { Heading, Paragraph, Tags } from '../../atoms'
 
-const Card = ({testID, type, width, data }) => {
+const Card = ({testID, type, width, data, action }) => {
 
   const colWidth = width > 5 ? width : 12
 
@@ -58,6 +58,7 @@ const Card = ({testID, type, width, data }) => {
     return(
         <Col data-testid={ testID }
              className={ `Card` }
+             onClick={() => action(data)}
              md={width} >
 
           { renderCardType() }

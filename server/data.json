@@ -1,58 +1,26 @@
 {
   "news": [
     {
-      "id": 1,
-      "title": "APG mede-initiatiefnemer ELSA Lab Anti-greenwashing"
+      "id": "1",
+      "title": "Wordt dit bijgewerkt?"
     },
     {
-      "id": 2,
-      "title": "Thijs Knaap bij BNR over het mysterie van de dalende inflatie"
+      "id": "2",
+      "title": "Iets met inflatie"
     },
     {
-      "id": 3,
-      "title": "Interview met bestuurder Ronald Wuijster over duurzame mobiliteit bij APG"
+      "id": "3",
+      "title": "Update of niet??"
     },
     {
-      "id": 4,
-      "title": "APG belegt voor ABP in aanbieder energieoplossingen"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
-    },
-    {
-      "id": 20,
-      "title": "Dit is een nieuwsbericht"
+      "id": "7d10",
+      "title": "Iets anders"
     }
   ],
   "articles": [
     {
-      "id": 1,
-      "title": "Beleggingen uitgelegd",
+      "id": "1",
+      "title": "Beleggingen uitgelegd of toch maar niet? dsadasd",
       "tags": [
         "beleggingen",
         "inkomen"
@@ -61,7 +29,7 @@
       "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Andere dingen",
       "tags": [
         "pensioenen",
@@ -71,8 +39,8 @@
       "image": "https://apg.nl/media/3krbxykh/anp-470691768.jpg"
     },
     {
-      "id": 3,
-      "title": "Nummer 3 dan maar!",
+      "id": "3",
+      "title": "De eenvoud van React :D",
       "tags": [
         "beleggingen",
         "inkomen"
@@ -80,8 +48,8 @@
       "content": "Iemand van APG doet iets moois"
     },
     {
-      "id": 4,
-      "title": "Artikel 4",
+      "id": "4",
+      "title": "Artikel 4 is geen leuke titel",
       "tags": [
         "beleggingen",
         "inkomen"
