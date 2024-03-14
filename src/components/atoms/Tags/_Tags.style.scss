@@ -1,0 +1,32 @@
+.Tags {
+
+  color: var(--fg-apg-gray);
+  font-size: 18px;
+  font-family: 'main-text-regular', sans-serif;
+
+  // XS - Phone
+  @media (max-width: 480px) {
+
+  }
+
+  // S - Tablet
+  @media (max-width: 768px) {
+
+  }
+
+  // M - Tablet/Laptop
+  @media (max-width: 1024px) {
+
+  }
+
+  // L - High Res
+  @media (max-width: 1200px) {
+
+  }
+
+  // XL - Ultra High Res
+  @media (min-width: 1201px) {
+
+  }
+
+}

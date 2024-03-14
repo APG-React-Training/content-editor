@@ -1,0 +1,36 @@
+.Paragraph {
+
+  color: var(--fg-white);
+  font-size: 24px;
+  font-family: 'main-text-regular', sans-serif;
+
+  &[data-object-type='blue'] {
+    color: var(--fg-apg-blue);
+  }
+
+  // XS - Phone
+  @media (max-width: 480px) {
+
+  }
+
+  // S - Tablet
+  @media (max-width: 768px) {
+
+  }
+
+  // M - Tablet/Laptop
+  @media (max-width: 1024px) {
+
+  }
+
+  // L - High Res
+  @media (max-width: 1200px) {
+
+  }
+
+  // XL - Ultra High Res
+  @media (min-width: 1201px) {
+
+  }
+
+}

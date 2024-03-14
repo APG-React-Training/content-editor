@@ -1,0 +1,33 @@
+.Background {
+
+  background-color: var(--bg-apg-slate);
+  margin: 40px;
+  min-height: 90vh;
+  padding: 40px;
+
+  // XS - Phone
+  @media (max-width: 480px) {
+
+  }
+
+  // S - Tablet
+  @media (max-width: 768px) {
+
+  }
+
+  // M - Tablet/Laptop
+  @media (max-width: 1024px) {
+
+  }
+
+  // L - High Res
+  @media (max-width: 1200px) {
+
+  }
+
+  // XL - Ultra High Res
+  @media (min-width: 1201px) {
+
+  }
+
+}
